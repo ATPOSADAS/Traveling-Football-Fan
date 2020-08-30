@@ -1,0 +1,32 @@
+Phoenix, AZ
+Atlanta, GA
+Baltimore, MD
+Buffalo, NY
+Charlotte, NC
+Chicago, IL
+Cincinnati, OH
+Cleveland, OH
+Dallas, TX
+Denver, CO
+Detroit, MI
+Green Bay, WI
+Houston, TX
+Indianapolis, IN
+Jacksonville, FL
+Kansas City, MO
+Miami, FL
+Minneapolis, MN
+Foxboro, MA
+Nashville, TN
+New Orleans, LA
+New York, NY
+Oakland, CA
+Philadelphia, PA
+Pittsburgh, PA
+Los Angeles, CA
+San Diego, CA
+San Francisco, CA
+Seattle, WA
+Tampa, FL
+Washington, D.C.
+London, U.K.
